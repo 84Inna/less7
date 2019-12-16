@@ -1,0 +1,36 @@
+.footer {
+	margin: 1375px 0 0;
+	display: flex;
+	background-color: #f0f0f0;
+	height: 90px;
+	flex-direction: row;
+	justify-content: space-between;
+
+	.footer__rules {
+		margin: 40px 0 47px 130px;
+	}
+	.footer__rules a {
+		font-family: 'Playfair Display', serif;
+		color: #626262;
+		padding: 0 10px;
+	}
+	.footer__socials {
+		margin: 35px 70px 47px 0;
+		align-items: center;
+	}
+
+	.footer__socials a {
+		font-family: 'Playfair Display', serif;
+		color: #626262;
+		padding: 0 10px;
+		vertical-align: middle;
+	}
+	}
+
+	a svg {
+		width: 20px;
+		height: 20px;
+		background-size: 30px;
+		fill: #626262;
+	}
+
